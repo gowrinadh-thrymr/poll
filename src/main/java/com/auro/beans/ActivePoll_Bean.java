@@ -6,7 +6,7 @@ import java.util.List;
 public class ActivePoll_Bean implements Serializable {
 
 	/**
-	 * 
+	 * poll
 	 */
 
 	private static final long serialVersionUID = 1L;
